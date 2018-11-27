@@ -1,0 +1,7 @@
+C:\Users\318136963\Documents\TpOrdenação\TpOrdenação\bin\Debug\TpOrdenação.exe.config
+C:\Users\318136963\Documents\TpOrdenação\TpOrdenação\bin\Debug\TpOrdenação.exe
+C:\Users\318136963\Documents\TpOrdenação\TpOrdenação\bin\Debug\TpOrdenação.pdb
+C:\Users\318136963\Documents\TpOrdenação\TpOrdenação\obj\Debug\TpOrdenação.csprojAssemblyReference.cache
+C:\Users\318136963\Documents\TpOrdenação\TpOrdenação\obj\Debug\TpOrdenação.csproj.CoreCompileInputs.cache
+C:\Users\318136963\Documents\TpOrdenação\TpOrdenação\obj\Debug\TpOrdenação.exe
+C:\Users\318136963\Documents\TpOrdenação\TpOrdenação\obj\Debug\TpOrdenação.pdb
